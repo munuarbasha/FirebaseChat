@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="login_success">Successfully signed in. Welcome!</string>
+    <string name="login_failure">We couldn\'t sign you in. Please try again later.</string>
+    <string name="signed_out">You have been signed out.</string>
+    <string name="welcome">Welcome</string>
+    <string name="message">Message</string>
+</resources>
